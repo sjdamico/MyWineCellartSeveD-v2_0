@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wineinventory.wineinventory">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wineinventory/build/libs/wineinventory.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

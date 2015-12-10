@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Fall2015ProjectSeveD.iml" filepath="$PROJECT_DIR$/Fall2015ProjectSeveD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWineCellartSeveD-v2_0.iml" filepath="$PROJECT_DIR$/MyWineCellartSeveD-v2_0.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/wineinventory/wineinventory.iml" filepath="$PROJECT_DIR$/wineinventory/wineinventory.iml" />
     </modules>
